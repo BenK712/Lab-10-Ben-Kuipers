@@ -1,4 +1,4 @@
-//11
+//Q1
 document.addEventListener("DOMContentLoaded", function() {
     const name = prompt("Please enter your name");
 
